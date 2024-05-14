@@ -1,6 +1,6 @@
 # Linux
 
-## Porque para aprender docker é importante alguns conceitos sobre linux?
+## Por que é importante entender alguns conceitos de Linux para aprender Docker?
 
 Aprender Docker e conceitos sobre Linux estão fortemente interligados por várias razões. Aqui estão os principais motivos pelos quais entender Linux pode ser crucial para trabalhar eficientemente com Docker:
 
@@ -43,3 +43,40 @@ Muitos problemas que surgem ao usar Docker podem estar relacionados a configura�
 ### Conclusão
 
 Embora não seja estritamente necessário ser um especialista em Linux para começar a usar Docker, ter um conhecimento básico do sistema operacional subjacente é extremamente benéfico. Isso pode facilitar a resolução de problemas, a otimização de configurações e a automação de tarefas, tornando o uso do Docker mais eficaz e menos frustrante.
+
+## Linux quais são suas principais distribuições?
+
+
+Linux é um sistema operacional de código aberto que possui várias distribuições (ou "distros") adaptadas para diferentes necessidades e preferências. Aqui estão algumas das principais distribuições de Linux:
+
+### 1. Ubuntu:
+
+- Descrição: Uma das distribuições mais populares, especialmente entre iniciantes. É conhecida por sua facilidade de uso e grande suporte da comunidade.
+- Base: Debian
+- Ambiente de Desktop: GNOME (padrão), mas também possui variantes como Kubuntu (KDE), Xubuntu (XFCE), e Lubuntu (LXQt).
+
+### 2. Debian:
+
+- Descrição: Uma distribuição muito estável e respeitada, conhecida por sua robustez e políticas de software livre.
+- Base: Nativa
+- Ambiente de Desktop: Diversos (GNOME, KDE, XFCE, LXDE, etc.).
+
+### 3. Fedora:
+
+- Descrição: Focado em oferecer as últimas inovações em software livre. Usado frequentemente por desenvolvedores e para testes de novas tecnologias.
+- Base: Red Hat
+- Ambiente de Desktop: GNOME (padrão), mas possui spins com KDE, XFCE, LXQt, e outros.
+
+### 4. CentOS/Rocky Linux/AlmaLinux:
+
+- Descrição: Distribuições derivadas do código-fonte do Red Hat Enterprise Linux (RHEL), fornecendo uma alternativa gratuita com foco em estabilidade e suporte de longo prazo.
+- Base: Red Hat
+- Ambiente de Desktop: Diversos (geralmente usado mais em servidores sem ambiente gráfico).
+
+### 5. openSUSE:
+
+- Descrição: Conhecida por sua ferramenta de administração YaST, oferece versões estáveis (Leap) e de ponta (Tumbleweed).
+- Base: SUSE
+- Ambiente de Desktop: KDE (padrão), GNOME, e outros.
+
+Cada distribuição tem suas particularidades, com diferentes níveis de suporte, foco em diferentes tipos de usuários (de iniciantes a avançados), e variações no ambiente de desktop e pacotes de software incluídos. A escolha da distribuição ideal depende das necessidades específicas do usuário e do ambiente em que será utilizada.
