@@ -87,5 +87,5 @@ Cada distribuição tem suas particularidades, com diferentes níveis de suporte
 - Acessar hub.docker.com / ubuntu
 
   
-
+https://github.com/JosiTubaroski/Linux/blob/main/Ubuntu/ubuntu.png
 
