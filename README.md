@@ -80,3 +80,12 @@ Linux é um sistema operacional de código aberto que possui várias distribuiç
 - Ambiente de Desktop: KDE (padrão), GNOME, e outros.
 
 Cada distribuição tem suas particularidades, com diferentes níveis de suporte, foco em diferentes tipos de usuários (de iniciantes a avançados), e variações no ambiente de desktop e pacotes de software incluídos. A escolha da distribuição ideal depende das necessidades específicas do usuário e do ambiente em que será utilizada.
+
+## Praticando alguns comandos do Linux
+
+- Para isso vamos utilizar uma imagem do hub docker com linux
+- Acessar hub.docker.com / ubuntu
+
+  
+
+
