@@ -88,4 +88,7 @@ Cada distribuição tem suas particularidades, com diferentes níveis de suporte
 
 <img src="https://github.com/JosiTubaroski/Linux/blob/main/Ubuntu/ubuntu.png">  
 
+## Temos como baixar a imagem do Linux, criar um conteiner e executar apartir do Conteiner criado ou executar sem necessáriamente ter que baixa, e não ocupando espaço de memória na máquina.
 
+1) Inciando Linux na sua máquina.
+   
